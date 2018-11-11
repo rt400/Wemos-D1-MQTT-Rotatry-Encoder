@@ -29,8 +29,8 @@
 
 // Update these with values suitable for your network.
 
-const char* ssid = "YYO";
-const char* password = "Yuval116877";
+const char* ssid = "";
+const char* password = "";
 const char* mqtt_server = "192.168.0.4";
 const int relayPin = D4;
 
